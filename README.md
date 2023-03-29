@@ -14,3 +14,4 @@ return its list price as per the user input in the console
 
 # Test cases
 
+../IFMSearchPicelist/blob/main/TestCases.xlsx
