@@ -1,0 +1,4 @@
+2023-03-29 09:57:37,292 :INFO : __main__ :An information statement is executed
+2023-03-29 09:57:37,292 :WARNING : __main__ :A warning message is executed
+2023-03-29 09:57:37,292 :ERROR : __main__ :An error message is executed
+2023-03-29 09:57:37,292 :CRITICAL : __main__ :A critical message is executed
