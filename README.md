@@ -1,4 +1,4 @@
-  # Python-Test-Automation-Framework
+  # Python-Test-Selenium-Automation-Framework
 
 # Description
 
